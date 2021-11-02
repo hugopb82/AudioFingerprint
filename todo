@@ -1,0 +1,17 @@
+Fingerprinting :
+- Read wav
+(- Downsample ?)
+- Compute stft
+	-> parameters ?
+- Find peaks
+	-> advanced approach
+	-> int or absolute ?
+- Generate Fingerprint
+- Store Fingerprint 
+
+Recognition :
+- Read wav
+- Compute stft
+- Find peaks
+- Generate Fingerprint
+- Compare Fingerprint
